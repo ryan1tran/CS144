@@ -1,4 +1,4 @@
-## Pokédex Application
+# Pokédex Application
 Find, sort, and filter your favorite Pokémon (only up to Generation 6)!   
 
 To use:  
