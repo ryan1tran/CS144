@@ -38,4 +38,4 @@ Output Window
 ![Output Window](output-screenshots/9_output-view.PNG?raw=true "Title")   
    
 Output File   
-![Output File](output-screenshots/10_output-file-view.PNG?raw=true "Title")
+![Output File](output-screenshots/10_output-file-view.PNG?raw=true "Title")   
